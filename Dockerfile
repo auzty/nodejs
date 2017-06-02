@@ -6,7 +6,7 @@ RUN npm install -g bower
 
 RUN npm install -g sequelize-cli
 
-RUN npm install -g sqlite3
+RUN npm install --unsafe-perm --verbose -g sqlite3
 
 RUN mkdir /opt/apps
 
