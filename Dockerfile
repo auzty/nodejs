@@ -12,4 +12,3 @@ RUN mkdir /opt/apps
 
 WORKDIR /opt/apps
 
-EXPOSE 3000
