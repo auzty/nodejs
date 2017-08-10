@@ -1,2 +1,4 @@
-# nodejs7.9
-nodejs 7.9 for automatic dockerhub build
+# nodejs 8.2
+nodejs 8.2 for automatic dockerhub build
+
+please see ``Dockerfile`` for future explanation
